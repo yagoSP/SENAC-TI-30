@@ -1,0 +1,26 @@
+*Surgimento
+    pra que que foi criado? contar kkkkkkk (feito para ajudar (rapidez)) Necessidade Humana    
+    Abaco primeiro computador?
+    Maquina de calcular de Pascal (Pascaline)   
+    Roda de Leibnitz
+    Cartões Perfurados (Joseph Marie Jacquard)         
+    Máquina Analitica
+
+    primeira geração de valvulas 1941 1952
+        *pouco confiavel
+        *disp e/s primitivos (ct furado)
+        *baixa velocidade
+            *custo elevado
+            *grande quantidade de energia consumida
+            *necessitavam de grnades instalações de ar condicionado para dissipar o calor
+    COLOSSUS 1943
+     *GOVERNO BRITANICO, ALAN TURING DECIFRAR CODIGOS SECRETOS DAS MAQUINAS DE ENIGMA ALEMÃ
+
+    ENIAC 1946
+auxiliar o exercito americano no processo de mira de sua artilharia pesada
+28 toneladas
+500 multiplicaçoes
+consumo de 170 kw
+5,5 m altura 25m comprimento 180m2
+capacidade de 29 numeros no maximo 10 digitos cada
+sistema operacional funcionava por meio de cartões perfurados
