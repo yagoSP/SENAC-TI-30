@@ -24,3 +24,44 @@ consumo de 170 kw
 5,5 m altura 25m comprimento 180m2
 capacidade de 29 numeros no maximo 10 digitos cada
 sistema operacional funcionava por meio de cartões perfurados
+
+
+
+maquina ISA - maquina de von neuman 1946
+
+Von neuman estabeleceu base de funcionamento de um computador que hoje estão em vigor
+    uso de sistema binario
+    CPU 
+    ULA    
+    Memória   
+    Unidades de entrada e sadida de dados
+
+
+    segunda geração 
+    tecnologia transistor e memorias magnéticas
+
+primeiras linguagesn 
+
+
+
+
+segunda geração bits e bytes
+
+ascii
+
+transistor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
