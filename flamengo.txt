@@ -1,0 +1,5 @@
+calculo de preço por hora técnica  
+formula : (custos operacionais + salario desejado)  / horas faturaveis + margem de lucro
+calculo: (2500,00 + 4000,00) / 120h = 54,17 por hora antes da margem de lucro.
+
+prelo final com lucro: 54,17 * 1.67 (67% de lucro) =  90,45 por hora
